@@ -21,7 +21,6 @@
 
     <!-- android -->
     <platform name="android">
-        <preference name="API_KEY_FOR_ANDROID" />
 
         <info>
              In order to run this plugin, you need to obtain Google Maps API key for Android.
@@ -98,7 +97,6 @@
 
     <!-- ios -->
     <platform name="ios">
-        <preference name="API_KEY_FOR_IOS" />
 
         <info>
              In order to run this plugin, you need to obtain Google Maps API key for iOS.
